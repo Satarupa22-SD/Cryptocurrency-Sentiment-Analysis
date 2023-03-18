@@ -1,6 +1,6 @@
 # Cryptocurrency Sentiment Analysis
 
-![Histogram showing the `Sentiment Scores` plotted against `The Number of Tweets` ](https://github.com/Satarupa22-SD/Cryptocurrency-Sentiment-Analysis/blob/main/Result.png)
+![Cryptocurrency Sentiment Analysis](https://github.com/Satarupa22-SD/Cryptocurrency-Sentiment-Analysis/blob/main/Screenshots/cover.jpg)
 
 ## PROJECT SUMMARY
 
