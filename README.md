@@ -34,7 +34,7 @@ In this project the  negative tweet was assigned a sentiment score of  1. Simila
 
 ## Result 
 
-![Histogram showing the scores plotted against the number of Tweets ](https://github.com/Satarupa22-SD/Cryptocurrency-Sentiment-Analysis/blob/main/Screenshots/Result.png)
+![Histogram showing the scores plotted against the number of Tweets ](https://github.com/Satarupa22-SD/Cryptocurrency-Sentiment-Analysis/blob/main/Result.png)
 
 
 ## Authors
