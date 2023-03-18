@@ -43,6 +43,8 @@ Here, the `Sentiment Scores` have been plotted against `The Number Of Tweets`.
 - X-axis:- Sentiment Scores
 - Y-axis:- Number Of Tweets
 
+The histogram plotted showed that most of the tweets had a score of 3.
+
 ## Authors
 
 - [@Satarupa22-SD](https://github.com/Satarupa22-SD)
