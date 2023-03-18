@@ -38,8 +38,8 @@ In this project the  negative tweet was assigned a sentiment score of  1. Simila
 
 Here, the `Sentiment Scores` have been plotted against `The Number Of Tweets`.
 
-X-axis:- Sentiment Scores
-Y-axis:- Number Of Tweets
+- X-axis:- Sentiment Scores
+- Y-axis:- Number Of Tweets
 
 ## Authors
 
