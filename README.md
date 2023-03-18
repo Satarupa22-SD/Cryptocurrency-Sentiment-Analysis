@@ -1,5 +1,7 @@
 # Cryptocurrency Sentiment Analysis
 
+![Histogram showing the `Sentiment Scores` plotted against `The Number of Tweets` ](https://github.com/Satarupa22-SD/Cryptocurrency-Sentiment-Analysis/blob/main/Result.png)
+
 ## PROJECT SUMMARY
 
 The aim of this project is to produce a Twitter Sentiment Analysis on the cryptocurrency market. With the rise in popularity of Bitcoin and Ethereum and the majority of  businesses moving to the web3.0 it is important to understand how the consumer actually feels about this change.
